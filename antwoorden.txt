@@ -11,6 +11,6 @@ Antwoord : ae710cf2
  => git show 2c6454c
 
 OPDRACHT 7
-a.
-b.
-c.
+a. Omdat de online branch een nieuwere commit had die nog niet aanwezig was in de lokale branch. Git vraagt om dan eerst te pullen.
+b. Git commit slaat je wijzigingen lokaal op en git push verstuurt ze naar de de github server, voor iedereen om te zien.
+c. Het zorgt ervoor dat je potentiele problematiche code niet schrijft op de werkende code van de main branch. Het is jouw soort playground.
