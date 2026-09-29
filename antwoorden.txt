@@ -1,10 +1,14 @@
 ANTWOORDEN TOETS GIT & GITHUB
 Naam: Haroon Baljinder
 OPDRACHT 3
-1.
-2.
-3.
-4.
+1. Commando: git log --grep="Basiswebsite toegevoegd" --oneline
+Antwoord : 2c6454c
+2. Commando: git log -n 1 --oneline -- index.html
+Antwoord : ae710cf Homepage naar versie 2
+3. Commando: git blame index.html
+Antwoord : ae710cf2
+4. Commando: git log --grep="Basiswebsite toegevoegd" --oneline
+ => git show 2c6454c
 
 OPDRACHT 7
 a.
